@@ -1,0 +1,11 @@
+/* .btn-outline-primary.btn__cv {
+  color: aqua !important;
+} */
+.btn__cv {
+  color: aquamarine !important;
+  border-color: red !important;
+}
+.btn__cv:hover {
+  color: aqua !important;
+  border-color: aqua !important;
+}
